@@ -1,5 +1,6 @@
 
-echo "Deploying Build : %date% : %time%"
-@echo off
 
+@echo off
 start "" https://www.turkiye.gov.tr/
+
+echo "Deploying Build : %date% : %time%"
