@@ -1,5 +1,3 @@
-
-
 @echo off
 start "" https://www.turkiye.gov.tr/
 
